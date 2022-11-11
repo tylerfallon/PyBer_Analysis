@@ -14,13 +14,17 @@ Regardless of the month, Urban areas clearly have significantly higher total far
 
 Interestingly, from Rural to Suburban to Urban areas, the average fare per ride and per driver decreased, while the total number of rides, drivers, and fare values increased. 
 
-You can see the data values below. 
+You can see the data values for Total Rides, Total Drivers, Total Fares, Average Fare per Ride, and Average Fare per Driver on the chart below. 
 
 ![Rides_df](https://github.com/tylerfallon/PyBer_Analysis/blob/main/Resources/rides_df.png?raw=true)
 
 
 ## Summary
 
-* test123
+There are several moves that we can recommend to the CEO that can be taken to address disparities among the three city types: 
 
-* test123
+* There should be incentives for drivers to move from more populated areas (Urban) to less populated areas (Rural) so that the cost per ride will be lower for riders. 
+
+* Drivers should be educated regarding the various fare differences by areas. If more drivers were aware that they could earn significantly more by driving in suburban areas rather than cities, they may be more likely to go to these areas and even out the disparities. 
+
+* A marketing push to acquire more riders in cities could be helpful to meet with the demand and number of drivers located in Urban areas. This means that marketing funding may be best spent in cities where there are already many drivers looking to offer their services. 
