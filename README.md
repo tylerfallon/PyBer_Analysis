@@ -18,6 +18,8 @@ You can see the data values for Total Rides, Total Drivers, Total Fares, Average
 
 ![Rides_df](https://github.com/tylerfallon/PyBer_Analysis/blob/main/Resources/rides_df.png?raw=true)
 
+Total rides in rural areas was 125, while in Suburban areas it was 625 and Urban areas it was 1,625. The total number of drivers in Rural areas was 78, in Suburban areas was 490, and in Urban areas it was 2,405. The total fares in Rural areas was $4,327.93, which equals $34.62 on average per ride and a $55.49 average fare per driver. In Suburban areas, the total fares was $19,356.33, which equals $30.97 on average per ride and $39.50 on average per driver. In Urban areas, the total fares equals $39,854.38, which comes out to $24.53 on average per ride and a $16.57 average fare per driver.
+
 
 ## Summary
 
